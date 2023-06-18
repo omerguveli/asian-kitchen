@@ -40,6 +40,11 @@
     display: flex;
     margin: 20px 0;
   }
+  img {
+    width: 500px;
+    height: 500px;
+    margin-right: 136px;
+  }
   .menu-info {
     margin-left: 20px;
     width: 100%;
@@ -48,6 +53,9 @@
     display: flex;
     justify-content: space-between;
     border-bottom: 1px solid black;
+  }
+  .menu-item p {
+    max-width: 520px;
   }
   
   h4 {
